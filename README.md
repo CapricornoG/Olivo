@@ -13,7 +13,7 @@ Responsive Image  on 3 screens
 * [UX](#ux "UX")
     * [User Goals](#user-goals "User Goals")
     * [User Stories](#user-stories "User Stories")
-    * [Site Owners Goals](#site-owners-goals)
+    * [Site Owner Goals](#site-owner-goals)
     * [User Requirements and Expectations](#user-requirements-and-expectations)
          * [Requirements](#requirements)
          * [Expectations](#expectations)
@@ -93,7 +93,7 @@ Responsive Image  on 3 screens
 
 # Design Choices
 
-## Font
+## Fonts
 
 I use [Google Font](<https://fonts.google.com/>) to help the selction of fonts.
 
@@ -109,7 +109,7 @@ I will use:
 
 I use [Font Awesome](<https://fontawesome.com/>) for social media links icons or to decorate a section with an icon.
 
-## Colors
+## Colours
 
 I use [Coolors](<https://coolors.co/>) for the selection of the color scheme, and a classic orange for some over.
 
@@ -126,6 +126,25 @@ I use [Coolors](<https://coolors.co/>) for the selection of the color scheme, an
 * logo and bottom in it will be di-sierra
 * text in other section will be rocket-fuel or burbon 
 * hover of icon link will bedark-green
+
+## Structure
+
+I will be building the website in different size for smartphone, tablet, and desktop.
+I will be using screen size breakpoint from [Bootstrap](https://getbootstrap.com/).
+
+|Screen Size|Breakpoint|
+|:---:|:---:|
+|x-small|< 576px|
+|medium|=>768px|
+|large|=>992px|
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+
 
 
 
