@@ -10,35 +10,28 @@ A vibrant online platform that serves as a go-to resource for individuals, aged 
 Responsive Image  on 3 screens
 
 # Table of Contents
-* [UX](#ux "UX")
-    * [User Goals](#user-goals "User Goals")
-    * [User Stories](#user-stories "User Stories")
-    * [Site Owner Goals](#site-owner-goals)
-    * [User Requirements and Expectations](#user-requirements-and-expectations)
-         * [Requirements](#requirements)
-         * [Expectations](#expectations)
-     * [Design Choices](#design-choices)
-        * [Fonts](#fonts)
-        * [Icons](#icons)
-        * [Colours](#colours)
-        * [Structure](#structure)
-    * [Wireframes](#wireframes)
-    * [Features](#features)
-    *   * [Existing Features](#existing-features)
-            * [Navigation Bar](#navigation-bar)
-            * [Landing Page](#landing-page)
-            * [About Section](#about-section)
-            * [Events Section](#events-section)
-            * [Contact Section](#contact-section)
-            * [Footer](#footer)
-        * [Features to be implemented](#features-to-be-implemented)
-    * [Technologies used](#technologies-used)
-        * [Languages](#languages)
-        * [Tools and Libraries](#tools-and-libraries)
-    * [Testing](#testing)
-        * [Unfixed Bugs](#unfixed-bugs)
-    * [Deployment](#deployment)
-    * [Credits](#credits)
+- [Goal for the project](#goal-for-the-project)
+- [Table of Contents](#table-of-contents)
+- [UX](#ux)
+  - [User Goals](#user-goals)
+  - [User Stories](#user-stories)
+  - [Site Owner Goals](#site-owner-goals)
+  - [Requirements](#requirements)
+  - [Expectations](#expectations)
+- [Design Choices](#design-choices)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+  - [Colours](#colours)
+  - [Structure](#structure)
+- [wireframes](#wireframes)
+- [Features](#features)
+  - [navigation-bar](#navigation-bar)
+  - [hero-page](#hero-page)
+  - [card-section](#card-section)
+  - [benefit-section](#benefit-section)
+  - [varieties-section](#varieties-section)
+  - [contact-section](#contact-section)
+  - [footer](#footer)
 
 # UX
 
@@ -165,6 +158,37 @@ I will use bootstrap to arrange for tablet and mobile and put a screenshot of th
 \
 &nbsp;
 
+# Features
+## navigation-bar
+Navigation bar will be responsive for different screen size.
+
+I'll use bootstrap to do so.
+ * Desktop
+  
+   ![Navbar_Desktop](/docs/Navbar_full.png)
+
+   In tablet and mobie bootstrap is used to give a responsive reaction to the bar.
+
+ * Tablet
+  
+    ![Navbar_Tablet](/docs/Navbar_tablet.png)
+
+ * Mobile
+  
+    ![Navbar_Mobile](/docs/Navbar_mobile.png)
+
+
+## hero-page
+
+  The hero page take the first central page in desktop and tablet, adapting it self with bootstrap. 
+
+  I also add a transition backwards.
+
+## card-section
+## benefit-section
+## varieties-section
+## contact-section
+## footer
 
 
   
