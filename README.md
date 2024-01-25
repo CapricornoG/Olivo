@@ -32,6 +32,8 @@ Responsive Image  on 3 screens
   - [varieties-section](#varieties-section)
   - [contact-section](#contact-section)
   - [footer](#footer)
+- [Features-to-be-added](#features-to-be-added)
+- [Technologies-used](#technologies-used)
 
 # UX
 
@@ -231,10 +233,27 @@ Again the design will be responsive and align the boxes.
   
   ![Footer](/docs/footer.png)
 
-    ![Footer_mobile](/docs/footer_mobile.png)
+  ![Footer_mobile](/docs/footer_mobile.png)
 
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
+# Features-to-be-added
 
+* Create a meals or Recipes pages with a library of recipes.
+* Possibility to add a recipe as a user.
+* Where to buy.
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+# Technologies-used
   
 
 
