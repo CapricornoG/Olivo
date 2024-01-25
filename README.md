@@ -34,6 +34,9 @@ Responsive Image  on 3 screens
   - [footer](#footer)
 - [Features-to-be-added](#features-to-be-added)
 - [Technologies-used](#technologies-used)
+  - [Languages](#languages)
+  - [Libraries \& Framework](#libraries--framework)
+  - [Tools](#tools)
 
 # UX
 
@@ -255,6 +258,24 @@ Again the design will be responsive and align the boxes.
 
 # Technologies-used
   
+  ## Languages
+* [HTML](https://en.wikipedia.org/wiki/HTML "HTML")
+* [CSS](https://en.wikipedia.org/wiki/CSS "CSS")
+
+## Libraries & Framework
+* [Google Fonts](https://fonts.google.com/ "Google Fonts")
+* [Font Awesome library](https://fontawesome.com/ "Font Awesome")
+## Tools
+* [Coolors](<https://coolors.co/>)
+* [Balsamiq](https://balsamiq.com/wireframes/ "Balsamiq")
+* [Bootstrap](https://getbootstrap.com/)
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
 
 
 
