@@ -221,6 +221,19 @@ This section will use the same principle of boxes of the benefit section, with 6
 
 ## footer
 
+The footer will be divided in three boxes, will contain text, and icon links. 
+
+Again the design will be responsive and align the boxes.
+
+* Brand
+* Contact
+* Social with icons
+  
+  ![Footer](/docs/footer.png)
+
+    ![Footer_mobile](/docs/footer_mobile.png)
+
+
 
   
 
