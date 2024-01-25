@@ -144,10 +144,26 @@ I will be using screen size breakpoint from [Bootstrap](https://getbootstrap.com
 \
 &nbsp;
 
+# wireframes
 
+I used [Balsamiq](<https://balsamiq.com/>) to create my wireframes.
 
+* DESKTOP
+  
+  ![wireframe_Desktop](/docs/balsamiq.png)
 
+I will use bootstrap to arrange for tablet and mobile and put a screenshot of the webpage underneath.
 
+* TABLET
+  
+  
+* MOBILE
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 
 
