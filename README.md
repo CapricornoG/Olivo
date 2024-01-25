@@ -185,6 +185,24 @@ I'll use bootstrap to do so.
   I also add a transition backwards.
 
 ## card-section
+
+I will have a Meal section, I want to create some cards that will be reponsive on the three format thanks to bootstrap.
+
+* Desktop
+
+  ![Desktop_card](/docs/card_desktop.png)
+
+
+* Tablet
+  
+    ![Tablet_card](/docs/tablet_card.png)
+
+
+* Mobile
+
+    ![Mobile_card](/docs/mobile_card.png)
+
+
 ## benefit-section
 ## varieties-section
 ## contact-section
