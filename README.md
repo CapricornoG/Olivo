@@ -91,6 +91,47 @@ Responsive Image  on 3 screens
 \
 &nbsp;
 
+# Design Choices
+
+## Font
+
+I use [Google Font](<https://fonts.google.com/>) to help the selction of fonts.
+
+I will use:
+
+* Montez for logo and heading section.
+
+* Playfair for the Navigation menu and other heading.
+  
+* Exo for general body.
+
+## Icons
+
+I use [Font Awesome](<https://fontawesome.com/>) for social media links icons or to decorate a section with an icon.
+
+## Colors
+
+I use [Coolors](<https://coolors.co/>) for the selection of the color scheme, and a classic orange for some over.
+
+*  --light-green: #606C38; 
+*   --dark-green: #283618;
+*   --rocket-fuel: #FEFAE0;
+*   --di-sierra: #DDA15E;
+*   --burbon: #BC6C25;
+*   hover of text will be orange
+
+![Colour](/docs/colors.png)
+
+* NavBar will have a background light-green
+* logo and bottom in it will be di-sierra
+* text in other section will be rocket-fuel or burbon 
+* hover of icon link will bedark-green
+
+
+
+
+
+
   
 
 
