@@ -37,6 +37,10 @@ Responsive Image  on 3 screens
   - [Languages](#languages)
   - [Libraries \& Framework](#libraries--framework)
   - [Tools](#tools)
+- [Testing](#testing)
+  - [Unfixed bugs](#unfixed-bugs)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
 # UX
 
@@ -276,6 +280,34 @@ Again the design will be responsive and align the boxes.
 \
 &nbsp;
 
+# Testing
+## Unfixed bugs
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+# Deployment
+
+Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
+
+
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+# Credits
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
 
 
 
