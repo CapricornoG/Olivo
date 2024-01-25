@@ -204,8 +204,21 @@ I will have a Meal section, I want to create some cards that will be reponsive o
 
 
 ## benefit-section
+
+The section will be divided in 4  box, two with picture and two with text and background color to create good symmetry, on Desktop and tablet. 
+
+On mobile I will have 4 boxes in line.
+
 ## varieties-section
+
+This section will use the same principle of boxes of the benefit section, with 6 boxes in line of 3, becoming in line of 2 on mobile.
+
+  ![Varieties](/docs/varieties.png)
+
+  ![Varieties](/docs/varieties_mobile.png)
+
 ## contact-section
+
 ## footer
 
 
