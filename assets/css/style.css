@@ -53,7 +53,7 @@ body {
 .navbar-nav{
     text-transform: uppercase;
     font-family: 'Playfair', serif;
-    font-size: 2.5rem;
+    font-size: 2.6rem;
     letter-spacing: 2px;
     --bs-nav-link-color: var(--di-sierra);
     --bs-nav-link-hover-color: orange;
@@ -72,11 +72,36 @@ body {
      color:orange;
  }
 
- 
 .navbar-nav > li{
     margin-left:5rem;
     margin-right:5rem;
   }
+
+
+.navbar-toggler {
+    color: #606C38;
+    border: solid var(--di-sierra) 1px;
+    margin-right: 3rem;
+}
+
+.navbar-toggler:hover {
+    color: orange;
+}
+
+.dropdown-menu {
+    font-size: 2rem;
+
+    --bs-dropdown-bg: var(--light-green);
+    --bs-dropdown-link-color: var(--di-sierra);
+    --bs-dropdown-link-hover-color:orange;
+    --bs-dropdown-link-hover-bg: var(--light-green);
+    --bs-dropdown-link-active-color: orange;
+    --bs-dropdown-link-active-bg: var(--light-green);
+    border: solid var(--di-sierra) 1px;
+}
+.dropdown-menu:hover {
+    border: solid orange 1px;
+}
 
 
 
