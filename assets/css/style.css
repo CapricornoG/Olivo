@@ -30,6 +30,35 @@ body {
     font-family: 'Exo', sans-serif;
 }
 
+/* Navigation menu */
+
+
+.navbar{
+    background: var(--light-green);
+}
+
+
+.h2{
+    font-family: "Montez" ;
+   font-size: 6rem;
+   font-weight: 600; 
+   color: var(--di-sierra);
+   padding-left: 2.5rem;
+}
+
+
+.navbar-nav{
+    text-transform: uppercase;
+    font-family: 'Playfair', serif;
+    font-size: 2rem;
+    letter-spacing: 2px;
+    --bs-nav-link-color: #DDA15E;
+    margin:auto;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    align-items: end;
+    }
+    
 /* move other section under just to see better*/
 
 .hero{
