@@ -29,3 +29,9 @@ body {
     box-sizing: border-box;
     font-family: 'Exo', sans-serif;
 }
+
+/* move other section under just to see better*/
+
+.hero{
+    padding-top: 200px;
+}
