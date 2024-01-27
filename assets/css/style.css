@@ -103,10 +103,7 @@ body {
     border: solid orange 1px;
 }
 
-
-
-/*---------------------------hero section*/
-
+/*hero section*/
 
 #hero-image{
     height: 75vh; 
@@ -135,7 +132,6 @@ body {
     }
 }
 
-
 #cover-text, #cover-text h2{
     color: var(--rocket-fuel);
     font-size: 2.5rem;
@@ -149,8 +145,6 @@ body {
     font-family: "Exo";
     font-size: 2.5rem;
 }
-
-
 
 #cover-text {
     font-family:"Exo";
@@ -166,6 +160,14 @@ body {
     right: 5rem;
     position: absolute;
 }
-    
+
+/*footer*/
+
+footer{
+    background-color: var(--burbon);
+    color: var(--rocket-fuel);
+    min-height: 13rem;
+    margin-top: 10rem;
+}
 
  
