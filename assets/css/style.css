@@ -200,4 +200,22 @@ footer{
     font-weight: bold;
 }
 
+
+.contact-us i{
+    color: var(--rocket-fuel);
+    font-size: 1.8rem;
+    text-align: center;
+    padding-left: 0.5rem;
+    transition: all 0.35s ease-in-out;
+    -mz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+
+}
+
+.contact-us i:hover{
+    color:var(--dark-green);
+    font-size: 2.5rem;
+}
+
  
