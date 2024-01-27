@@ -200,7 +200,6 @@ footer{
     font-weight: bold;
 }
 
-
 .contact-us i{
     color: var(--rocket-fuel);
     font-size: 1.8rem;
@@ -210,12 +209,41 @@ footer{
     -mz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
-
 }
 
 .contact-us i:hover{
     color:var(--dark-green);
     font-size: 2.5rem;
+}
+
+.social-links{
+    padding-bottom: 2.5rem;
+}
+
+.social-links li a i{
+    width: 3.2rem;
+    height: 3.2rem;
+    padding: 1.2rem 0;
+    border-radius: 50%;
+    font-size:1.3rem;
+    line-height: 0.7rem;
+    text-align: center;
+    color: var(--rocket-fuel);
+    background: var(--di-sierra) ;
+    transition: all 0.35s ease-in-out;
+    -mz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover{
+    background: var(--dark-green) ;
+    font-size: 2.5rem;
+    width: 4rem;
+    height: 4rem;
+    line-height: 0.7rem;
+    text-align: center;
+    padding: 1.7rem 0;
 }
 
  
