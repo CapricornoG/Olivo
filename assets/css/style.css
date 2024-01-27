@@ -170,4 +170,14 @@ footer{
     margin-top: 10rem;
 }
 
+.uppercase{
+    text-transform: uppercase;
+}
+
+.general-sub{
+    font-family: "Playfair", sans-serif;
+        color: var(--rocket-fuel);
+        font-size: 1.7rem;
+        font-weight: bold;
+}
  
