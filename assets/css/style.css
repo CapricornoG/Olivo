@@ -111,6 +111,9 @@ body {
 #hero-image{
     height: 75vh; 
       background: url(../img/hero.jpg) center 85% / cover no-repeat;
+      animation-name: hero-zoom;
+      animation-duration: 5s;
+      animation-fill-mode: backwards; 
 }
  
  #hero-outer{
@@ -121,4 +124,14 @@ body {
      background: var(--light-green);
      position: relative;
  }
+
+ 
+@keyframes hero-zoom{
+    from{
+        transform: scale(1.1);
+    }
+    to{
+        transform: scale(1);
+    }
+}
  
