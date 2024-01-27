@@ -134,4 +134,38 @@ body {
         transform: scale(1);
     }
 }
+
+
+#cover-text, #cover-text h2{
+    color: var(--rocket-fuel);
+    font-size: 2.5rem;
+}
+
+#cover-text h3{
+    margin-top: 5px;
+    color: var(--rocket-fuel);
+    text-align: end;
+    padding-right: 1rem;
+    font-family: "Exo";
+    font-size: 2.5rem;
+}
+
+
+
+#cover-text {
+    font-family:"Exo";
+    letter-spacing: 2px;
+    width: auto;
+    height: 20rem;
+    padding-top:1rem ;
+    padding-bottom: 4rem;
+    padding-left: 1rem;
+    background-color:rgba(3, 3, 3, 0.5);
+    bottom: -5rem;
+    left: 4rem;
+    right: 5rem;
+    position: absolute;
+}
+    
+
  
