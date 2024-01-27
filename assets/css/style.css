@@ -180,4 +180,24 @@ footer{
         font-size: 1.7rem;
         font-weight: bold;
 }
+
+#footer-details{
+    padding: 2rem;
+}
+
+
+.paragraph-footer{
+    font-family: "Playfair", sans-serif ;
+}
+
+.inline-block{
+    display: inline-block;
+    padding-right: 6rem;
+    text-align: justify;
+}
+
+.span-bold{
+    font-weight: bold;
+}
+
  
