@@ -105,8 +105,20 @@ body {
 
 
 
-/* move other section under just to see better*/
+/*---------------------------hero section*/
 
-.hero{
-    padding-top: 200px;
+
+#hero-image{
+    height: 75vh; 
+      background: url(../img/hero.jpg) center 85% / cover no-repeat;
 }
+ 
+ #hero-outer{
+     height:75vh;
+     width: auto;
+     clear: both;
+     padding-top: 10rem;
+     background: var(--light-green);
+     position: relative;
+ }
+ 
