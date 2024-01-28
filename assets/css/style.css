@@ -292,9 +292,22 @@ body {
     min-height: 36rem;
 }
 
-.col-sm-12{
+.col-sm-12-disappear{
     min-height: 0;
 }
+
+/*varieties section*/
+
+.v-heading-section{
+    text-decoration: none;
+    padding-bottom: 3rem;
+    font-family: "Montez", sans-serif ;
+   font-size: 5.5rem;
+   font-weight: bold; 
+   color: var(--burbon);
+   padding-left: 2.5rem;
+}
+
 
 
 
