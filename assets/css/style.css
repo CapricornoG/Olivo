@@ -90,7 +90,6 @@ body {
 
 .dropdown-menu {
     font-size: 2rem;
-
     --bs-dropdown-bg: var(--light-green);
     --bs-dropdown-link-color: var(--di-sierra);
     --bs-dropdown-link-hover-color:orange;
@@ -160,6 +159,25 @@ body {
     right: 5rem;
     position: absolute;
 }
+
+/*meals section*/
+
+#meals{
+    padding-top:15rem ;
+    padding-bottom: 5rem; 
+}
+
+
+.meal-link {
+    text-decoration: none;
+    padding-bottom: 3rem;
+    font-family: "Montez" ;
+   font-size: 5.5rem;
+   font-weight: bold; 
+   color: var(--burbon);
+   padding-left: 2.5rem;
+}
+
 
 /*footer*/
 
