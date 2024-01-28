@@ -188,9 +188,10 @@ body {
     font-size: 2.5rem;
 }
 
-.container-fluid{
-    padding-left: 5rem;
-    padding-right: 5rem;
+
+.container-fluid-meals{
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 .card-img-top{
@@ -228,7 +229,7 @@ footer{
     background-color: var(--burbon);
     color: var(--rocket-fuel);
     min-height: 13rem;
-    margin-top: 10rem;
+    margin: 0;
 }
 
 .uppercase{
@@ -236,9 +237,8 @@ footer{
 }
 
 .general-sub{
-    font-family: "Playfair", sans-serif;
         color: var(--rocket-fuel);
-        font-size: 1.7rem;
+        font-size: 2rem;
         font-weight: bold;
 }
 
@@ -246,10 +246,6 @@ footer{
     padding: 2rem;
 }
 
-
-.paragraph-footer{
-    font-family: "Playfair", sans-serif ;
-}
 
 .inline-block{
     display: inline-block;
