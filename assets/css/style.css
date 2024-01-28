@@ -171,11 +171,24 @@ body {
 .meal-link {
     text-decoration: none;
     padding-bottom: 3rem;
-    font-family: "Montez" ;
+    font-family: "Montez", sans-serif;
    font-size: 5.5rem;
    font-weight: bold; 
    color: var(--burbon);
    padding-left: 2.5rem;
+}
+
+
+.meal-categories{
+    margin-bottom: 0.5rem;
+    padding-bottom: 2px;
+    line-height: 1.2;
+    color: var(--rocket-fuel);
+    text-align: center;
+    background-color: var(--burbon);
+    text-decoration: none;
+    font-family:"Playfair", sans-serif;
+    font-size: 2.5rem;
 }
 
 
