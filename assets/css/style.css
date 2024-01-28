@@ -178,7 +178,6 @@ body {
    padding-left: 2.5rem;
 }
 
-
 .meal-categories{
     margin-bottom: 0.5rem;
     padding-bottom: 2px;
@@ -189,6 +188,12 @@ body {
     text-decoration: none;
     font-family:"Playfair", sans-serif;
     font-size: 2.5rem;
+}
+
+.card-img-top{
+    padding: 0.5rem;
+    width: 100%;
+    height: 35rem; 
 }
 
 
