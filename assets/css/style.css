@@ -273,8 +273,19 @@ body {
     font-size: 3rem;
     color: var(--rocket-fuel);
     padding-left: 2rem;
-    padding-top: 5rem;
     }
+
+    
+
+.image-reason-start{
+    background: url(../img/sott_olio.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 36rem;
+    
+}
+
 
 
 /*footer*/
