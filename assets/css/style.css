@@ -292,6 +292,9 @@ body {
     min-height: 36rem;
 }
 
+.col-sm-12{
+    min-height: 0;
+}
 
 
 
