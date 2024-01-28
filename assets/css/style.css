@@ -223,6 +223,38 @@ body {
 }
 
 
+/*---------------------------benefit section*/
+
+.b-heading-section {
+    text-decoration: none;
+    padding-bottom: 3rem;
+    font-family: "Montez", sans-serif ;
+   font-size: 5.5rem;
+   font-weight: bold; 
+   color: var(--burbon);
+   padding-left: 2.5rem;
+}
+
+
+.row-table{
+    display: table;
+}
+
+
+.section-column{
+    display: table-cell;
+    padding: 0 3rem 3rem;
+    float: none;
+}
+
+.reason-benefit{
+    background: #606C38;
+    padding-top: 2rem;
+    width: fit-content;
+   min-height: 36rem;  
+}
+
+
 /*footer*/
 
 footer{
