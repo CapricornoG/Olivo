@@ -257,16 +257,24 @@ body {
 
 .benefit-heading{
     margin-bottom: 1.5rem;
-         color: #FEFAE0;
+         color: var(--rocket-fuel);
         font-size: 2rem;
 }
 
 .benefit-paragraph{
     text-align: justify;
-    color: #FEFAE0;
+    color: var(--rocket-fuel);
     font-size: 1.5rem;
     padding-right: 5rem;
 }
+
+
+.reason-icon{
+    font-size: 3rem;
+    color: var(--rocket-fuel);
+    padding-left: 2rem;
+    padding-top: 5rem;
+    }
 
 
 /*footer*/
