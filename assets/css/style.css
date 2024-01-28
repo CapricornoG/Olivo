@@ -275,16 +275,22 @@ body {
     padding-left: 2rem;
     }
 
-    
-
 .image-reason-start{
     background: url(../img/sott_olio.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 36rem;
-    
 }
+
+.image-reason-end{
+    background: url(../img/on_salad.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 36rem;
+}
+
 
 
 
