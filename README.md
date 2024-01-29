@@ -7,7 +7,8 @@ Welcome to [Olivo](<https://capricornog.github.io/Olivo/>) .
 
 A vibrant online platform that serves as a go-to resource for individuals, aged 30-40, seeking to enhance their culinary experiences and overall well-being through the use of olive oil.
 
-Responsive Image  on 3 screens
+![Olivo website](/docs/olivo_website_screenshot.png)
+
 
 # Table of Contents
 - [Goal for the project](#goal-for-the-project)
