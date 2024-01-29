@@ -229,6 +229,21 @@ This section will use the same principle of boxes of the benefit section, with 6
 
 ## contact-section
 
+For this section I get inspired to the Contact page of resume-miniproject-bootstrap4 of [Code Institute](<https://github.com/Code-Institute-Solutions>), readapting and styling to the needs of the website. 
+
+* Desktop
+
+   ![Contact_us-desktop](/docs/contact-us-desktop.png)
+
+* Mobile
+
+  ![Contact_us-mobile](/docs/contact_us-mobile.png)
+
+
+
+
+
+
 ## footer
 
 The footer will be divided in three boxes, will contain text, and icon links. 
