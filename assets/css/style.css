@@ -148,7 +148,7 @@ body {
 #cover-text {
     letter-spacing: 2px;
     width: auto;
-    height: 20rem;
+    height: 25rem;
     padding-top:1rem ;
     padding-bottom: 4rem;
     padding-left: 1rem;
@@ -157,6 +157,12 @@ body {
     left: 4rem;
     right: 5rem;
     position: absolute;
+}
+
+@media(min-width:768px) {
+    #cover-text {
+        height:15rem;
+    }
 }
 
 /*meals section*/
