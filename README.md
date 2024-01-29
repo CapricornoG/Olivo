@@ -3,7 +3,7 @@
 
 # Goal for the project
 
-Welcome to Olivo. 
+Welcome to [Olivo](<https://capricornog.github.io/Olivo/>) . 
 
 A vibrant online platform that serves as a go-to resource for individuals, aged 30-40, seeking to enhance their culinary experiences and overall well-being through the use of olive oil.
 
