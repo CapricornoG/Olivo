@@ -44,6 +44,8 @@ A vibrant online platform that serves as a go-to resource for individuals, aged 
   - [Responsiveness](#responsiveness)
   - [Bugs](#bugs)
   - [Code Validation](#code-validation)
+  - [Lighthouse](#lighthouse)
+  - [Accesability testing](#accesability-testing)
   - [Unfixed bugs](#unfixed-bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
@@ -418,6 +420,20 @@ Again the design will be responsive and align the boxes.
     After fixing the error I got the following message "Congratulations! No Error Found." from W3C . There are some warnings needed to be fixed related to the browser transiction.
   
     ![Validator-CSS](/docs/screenshot-css-validator.png)
+
+## Lighthouse
+
+ | View Tested| Outcome of the audit| 
+| -------------- | :-----------------:|
+|    Desktop      |        ![lighthouse-desktop](/docs/light-house-lg.png)       |  
+|  Mobile    |    ![lighthouse-mobile](/docs/lighthouse-xs.png)     |  
+
+## Accesability testing
+
+Section to be added
+            
+
+
 
 
 ## Unfixed bugs
