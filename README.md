@@ -225,7 +225,11 @@ I will have a Meal section, I want to create some cards that will be reponsive o
 
 The section will be divided in 4  box, two with picture and two with text and background color to create good symmetry, on Desktop and tablet. 
 
-On mobile I will have 4 boxes in line.
+On mobile I will have 3 boxes in line and one image will disapper.
+![benefit](/docs/benefit-lg-scr.png)
+![benefit-xs](/docs/benefit-xs-scrshoot.png)
+![benefit-xs-end](/docs/xs-benefit-scrshoot-end.png)
+
 
 ## varieties-section
 
@@ -331,9 +335,14 @@ Again the design will be responsive and align the boxes.
 |Hero img| Visualise hero image properly |User will see an appealing landing page that zoom out to give movement|
 |Hero img| Visualise responsive hero image property |User will see different of the hero on different device ![hero](/docs/hero-scr.png) ![hero-xs](/docs/hero-xs-scr.png)|
 |Cover text| cover text on different screen| user will see resizing the cover text on different device|
-|Meal section| different cards same size in line on desktop, in row of 2 on medium format in row of 1 on small screen| User will see a dispaly of card, rispecting shape, color and font characteristic, responsive on different device ![meals](/docs/meal-sec-scr.png) ![meal-md](/docs/meal-sec-scr-md.png)![meal-xs](/docs/meal-sec-scr-xs.png) |
-
-
+|Meal section| different cards same size in line on desktop, in row of 2 on medium format in row of 1 on small screen| User will see a dispaly of card, rispecting shape, color and font characteristic, responsive on different device, ![meals](/docs/meal-sec-scr.png) ![meal-md](/docs/meal-sec-scr-md.png)![meal-xs](/docs/meal-sec-scr-xs.png) |
+| Benefit section| testing responsability of this section| the section will be responsive on different screen size and an image will disappeart on mobile view ![benefit](/docs/benefit-lg-scr.png)![benefit-xs](/docs/benefit-xs-scrshoot.png)![benefit-xs-end](/docs/xs-benefit-scrshoot-end.png) | 
+|Varieties section| testing responsive of the section| user will see 6 boxes in row of 3 center in the middle of page going in row of 2 as changing screen size ![varieties-lg](/docs/varietieties-lg.png) ![varieties-md](/docs/varietieties-md.png)  |
+|Contact section| testing responviveness| User will see the contact section resize on small screen taking the space available ![contact-lg](/docs/contact-lg.png) ![contact-xs](/docs/contact_us-mobile.png) |
+|COntuct us\ Send Recipe| button send recipe will send a message if filled or asked required| user will see different color overing on the button and required filing if not completed form; after compliting the form user will be redirect to Codeinstitute formdump page ![contact-req](/docs/contact-req.png) ![contact-req-hov](/docs/contact-req.png) ![form-codeinstitute](/docs/form-codeinstitute.png)|
+|Footer| testing responsiveness footer| User will see different order of footer element on different screen size  ![Footer](/docs/footer.png) ![Footer_mobile](/docs/footer_mobile.png) |
+|Footer\ contuct icon| test link icon and hover| User will see the icon link change color and dimension to send to the contact section ![icon-contact](/docs/icon-scr.png)![icon-contact](/docs/icon-scr-hover.png)|
+|Footer\ Social icons| test link icon and hover| User will see the icon link change color and dimension to send to website of the link ![social-icon](/docs/social.scr.png)![social-icon-f](/docs/social.scr-f-hover.png)![social-icon-i](/docs/social.scr-i-hover.png)![social-icon-t](/docs/social.scr-t-hover.png)![social-icon-y](/docs/social.scr-y-hover.png)|
 
 
 
