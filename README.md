@@ -138,6 +138,7 @@ I will be using screen size breakpoint from [Bootstrap](https://getbootstrap.com
 |Screen Size|Breakpoint|
 |:---:|:---:|
 |x-small|< 576px|
+|small|=> 576px|
 |medium|=>768px|
 |large|=>992px|
 
@@ -298,31 +299,54 @@ Again the design will be responsive and align the boxes.
 
 # Testing
 
-I noticed that under 768px the cards didn't look so great and too big. FIXING I add col-sm-6 to each div line 86, 96, 106, 117. Then I add a class resize to the div row on line 85 on my index.html, and applied a media queries adding margin left and right and removing padding left and right from container-fluid-meals class under 576 px. the resuld is that the cards take full weight screen only up to 576px, with padding left and right to center them all.
+* During all the Development stage I used [DevTools - Chrome for Developers](<https://developer.chrome.com/docs/devtools>), to allow see how the website was looking on the browser. Then I readapt margin, padding, class name ( considering using Bootstrap ) to what I fell it's most visual apeealing. 
 
-Start to validate the index.html file on [The W3C Markup Validation Service](<https://validator.w3.org/>)  , and have multiple info, Error, or Warning to fix. 
- * INFO line 9 :  Trailing slash on void elements. FIXING removing / simbol.
- * ERROR line 99 : Bad value assets/img/full _aperitivo.jpg for attribute src on element img. FIXING change the name of the img in full-aperitivo.
- * WARNING line 146 : Possible misuse of aria-label. FIXING removing aria-label.
- * WARNING line 170 : Possible misuse of aria-label. FIXING removing aria-label.
- * ERROR line line 204, 215, 226, 237, 248, 259 : Duplicate ID central-image. FIXING changing all the ID central-image with class:central-image.
-* ERROR line line 205, 216, 227, 238, 249, 260 : Duplicate ID circle-container. FIXING changing all the ID circle-container with class:circle-container.
-* ERRORS line 269 : End tag section seen, but there were open elements. line 196, 197 : Unclosed element div. FIXING I checked the varieties section related to the errors and fixed the position of the element.
-* INFO line 286, 287 : Trailing slash on void elements. FIXING remove / symbol at the end of the tag from line 286, 287.
-* ERRORS line 301 End tag section seen, but there were open elements; line 276 : Unclosed element div. FIXING add closing div /div to line 304 in index.html.
+* I noticed that under 768px the cards didn't look so great and too big. FIXING I add col-sm-6 to each div line 86, 96, 106, 117. Then I add a class resize to the div row on line 85 on my index.html, and applied a media queries adding margin left and right and removing padding left and right from container-fluid-meals class under 576 px. the resuld is that the cards take full weight screen only up to 576px, with padding left and right to center them all.
   
-After fixing these errors I got the following message "Document checking completed. No errors or warnings to show." from W3C .
-
-![Validator-HTML](/docs/screenshot-validator-html.png)
-
-
-Now validate the style.css on [The W3C CSS Validation Service - Jigsaw](<https://jigsaw.w3.org/css-validator/>)
-
-* ERROR line 317 .varieties-heading	Value Error : margin-bottom only 0 can be a unit. You must put a unit after your number : 1.5. FIXING add rem to 1.5 value.
-
-After fixing the error I got the following message "Congratulations! No Error Found." from W3C . There are some warnings needed to be fixed related to the browser transiction.
+* I didn't design a wireframe for smarthpohne or tablet as initially I thought to give the same structure in diffent dimension, I then readapt each section to the screen size.
   
-![Validator-CSS](/docs/screenshot-css-validator.png)
+   ![Validator-HTML](/docs/smarphone-landing-screenshot.png)
+
+    ![Validator-HTML](/docs/smatphone-card%20start.png)
+
+    ![Validator-HTML](/docs/smatphone-card-screeshot-end.png)
+
+    ![Validator-HTML](/docs/benefit-xs-scrshoot.png)
+
+    ![Validator-HTML](/docs/xs-benefit-scrshoot-end.png)
+
+    ![Validator-HTML](/docs/varieties-xs-scrshoot.png)
+
+    ![Validator-HTML](/docs/contact-xs-screenshoot.png)
+    
+    ![Validator-HTML](/docs/footer-xs-screenshot.png)
+
+
+
+
+* Start to validate the index.html file on [The W3C Markup Validation Service](<https://validator.w3.org/>)  , and have multiple info, Error, or Warning to fix. 
+  * INFO line 9 :  Trailing slash on void elements. FIXING removing / simbol.
+  * ERROR line 99 : Bad value assets/img/full _aperitivo.jpg for attribute src on element img. FIXING change the name of the img in full-aperitivo.
+  * WARNING line 146 : Possible misuse of aria-label. FIXING removing aria-label.
+  * WARNING line 170 : Possible misuse of aria-label. FIXING  removing aria-label.
+  * ERROR line line 204, 215, 226, 237, 248, 259 : Duplicate ID central-image. FIXING changing all the ID central-image with class:central-image.
+  * ERROR line line 205, 216, 227, 238, 249, 260 : Duplicate ID circle-container. FIXING changing all the ID circle-container with class:circle-container.
+  * ERRORS line 269 : End tag section seen, but there were open elements. line 196, 197 : Unclosed element div. FIXING I checked the varieties section related to the errors and fixed the position of the element.
+  * INFO line 286, 287 : Trailing slash on void elements. FIXING remove / symbol at the end of the tag from line 286, 287.
+  * ERRORS line 301 End tag section seen, but there were open elements; line 276 : Unclosed element div. FIXING add closing div /div to line 304 in index.html.
+  
+    After fixing these errors I got the following message "Document checking completed. No errors or warnings to show." from W3C .
+
+    ![Validator-HTML](/docs/screenshot-validator-html.png)
+
+
+* Now validate the style.css on [The W3C CSS Validation Service - Jigsaw](<https://jigsaw.w3.org/css-validator/>)
+
+  * ERROR line 317 .varieties-heading	Value Error : margin-bottom only 0 can be a unit. You must put a unit after your number : 1.5. FIXING add rem to 1.5 value.
+
+    After fixing the error I got the following message "Congratulations! No Error Found." from W3C . There are some warnings needed to be fixed related to the browser transiction.
+  
+    ![Validator-CSS](/docs/screenshot-css-validator.png)
 
 
 
