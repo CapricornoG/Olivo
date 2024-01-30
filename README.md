@@ -307,6 +307,10 @@ Start to validate the code on HTML, and have multiple info, Error, or Warning to
 * ERRORS line 269 : End tag section seen, but there were open elements. line 196, 197 : Unclosed element div. FIXING I checked the varieties section related to the errors and fixed the position of the element.
 * INFO line 286, 287 : Trailing slash on void elements. FIXING remove / symbol at the end of the tag from line 286, 287.
 * ERRORS line 301 End tag section seen, but there were open elements; line 276 : Unclosed element div. FIXING add closing div /div to line 304 in index.html.
+  
+After fixing this errors I got the following message "Document checking completed. No errors or warnings to show." from W3C
+
+![Validator-HTML](/docs/screenshot-validator-html.png)
 
 ## Unfixed bugs
 
