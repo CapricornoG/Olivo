@@ -353,9 +353,16 @@ Again the design will be responsive and align the boxes.
   | Browser Tested | Intended appearance | intended Responsiveness |
 | -------------- | :-----------------: | ----------------------: |
 | Chrome         |        Good         |                    Good |
-| Mozilla        |        Good         |                    Good |
+| Opera      |        Good         |                    Good |
 | Edge           |        Good         |                    Good |
   ## Responsiveness
+
+  | Device Teste | site responsive <576  |site responsive => 820 |site responsive => 992 | responsive as expected|
+| ---:|---:|---:|---:|----:|
+| Iphone xr   |   Good   |  N/A |N/A  | Good|
+|   Ipad Air   |  N/A   |   Good |N/A |Good |
+|    Desktop 1024 px  |   Good |   Good |Good |Good |
+
   ## Bugs
 
 * During all the Development stage I used [DevTools - Chrome for Developers](<https://developer.chrome.com/docs/devtools>), to allow see how the website was looking on the browser. Then I readapt margin, padding, class name ( considering using Bootstrap ) to what I fell it's most visual apeealing. 
