@@ -53,8 +53,6 @@ A vibrant online platform that serves as a go-to resource for individuals, aged 
 
 * Explore Culinary Inspiration.
 
-* Access Clear and Easy-to-Follow Recipes.
-
 ## User Stories
 
 * Title: Discovering Healthy Lunch Options
@@ -129,6 +127,7 @@ I use [Coolors](<https://coolors.co/>) for the selection of the color scheme, an
 * logo and bottom in it will be di-sierra
 * text in other section will be rocket-fuel or burbon 
 * hover of icon link will bedark-green
+* see different varieties 
 
 ## Structure
 
