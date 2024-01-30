@@ -127,7 +127,7 @@ I use [Coolors](<https://coolors.co/>) for the selection of the color scheme, an
 * logo and bottom in it will be di-sierra
 * text in other section will be rocket-fuel or burbon 
 * hover of icon link will bedark-green
-* see different varieties 
+
 
 ## Structure
 
