@@ -299,7 +299,9 @@ Again the design will be responsive and align the boxes.
 # Testing
 Start to validate the code on HTML, and have multiple info, Error, or Warning to fix. 
  * INFO line 9 :  Trailing slash on void elements. FIXING removing / simbol.
- * Error line 99 : Bad value assets/img/full _aperitivo.jpg for attribute src on element img. FIXING change the name of the img in full-aperitivo.
+ * ERROR line 99 : Bad value assets/img/full _aperitivo.jpg for attribute src on element img. FIXING change the name of the img in full-aperitivo.
+ * WARNING line 146 : Possible misuse of aria-label. FIXING removing aria-label.
+ * * WARNING line 170 : Possible misuse of aria-label. FIXING removing aria-label.
 ## Unfixed bugs
 
 \
