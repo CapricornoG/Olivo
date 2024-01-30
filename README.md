@@ -318,8 +318,14 @@ Again the design will be responsive and align the boxes.
     ![Validator-HTML](/docs/varieties-xs-scrshoot.png)
 
     ![Validator-HTML](/docs/contact-xs-screenshoot.png)
-    
+
     ![Validator-HTML](/docs/footer-xs-screenshot.png)
+
+* In the varieties section one of the name given as h3 varieties heading was too long causing the images and text to be moved down on xs device, I just change the name to be shorter as a temporary but visually good solution.
+
+* On XS device in the benefit section the two pictures were in colon line, I didn't like to much so I decide to use media queries to make one of the images disapper.
+
+* Another media queries has been used for the cover text id to make the container of different size on xs screen.
 
 
 
