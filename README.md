@@ -39,6 +39,11 @@ A vibrant online platform that serves as a go-to resource for individuals, aged 
   - [Libraries \& Framework](#libraries--framework)
   - [Tools](#tools)
 - [Testing](#testing)
+  - [Feature Testing](#feature-testing)
+  - [Browser Compatibility](#browser-compatibility)
+  - [Responsiveness](#responsiveness)
+  - [Bugs](#bugs)
+  - [Code Validation](#code-validation)
   - [Unfixed bugs](#unfixed-bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
@@ -301,6 +306,44 @@ Again the design will be responsive and align the boxes.
 &nbsp;
 
 # Testing
+  ## Feature Testing
+
+
+
+|Feature|test|Outcome|
+|:---:|:---:|:----:|
+|Navbar|Full responsive nvigation bar | User can see Nav bar responsive on different screen and fixed on top of the page ![Navbar_Desktop](/docs/Navbar_full.png) ![Navbar_Desktop](/docs/Navbar_tablet.png)|
+|Navbar\Logo| Click on logo| User is brought to the Home page|
+|Navbar\Home| Click on Home button|  User is brought to the Home page|
+|Navbar\Home| hover Home button|  User see change of color home button ![](/docs/home-scrsh.png) ![home-hover](/docs/home-scrsh-hover.png)|
+|Navbar\Meals| Click on Meals button|  User is brought to the Meals section|
+|Navbar\Meals| hover Meals button|  User see change of color Meals button|
+|Navbar\Why Olive Oil?| Click on Why Olive Oil? button|  User will see a dropdown menu appear ![dropdown button](/docs/whyOO-drop.png)|
+|Navbar\Why Olive Oil?| hover Why Olive Oil? button|  User see change of color Why Olive Oil? button|
+|Navbar\Why Olive Oil?\Benefit| Click on Benefit button|  User is brought to the Benefit section|
+|Navbar\Why Olive Oil?\Benefit| hover Benefit button|  User see change of color Benefit button|
+|Navbar\Why Olive Oil?\Varieties| Click on Varieties button|  User is brought to the Varieties section|
+|Navbar\Why Olive Oil?\Varieties| hover Varieties button|  User see change of color Varieties button|
+|Navbar\Contact| Click on Contact button|  User is brought to the Contact section|
+|Navbar\Contact| hover Contact button|  User see change of color Contact button|
+|Navbar\Toggle Menu| Visualise toggle menu button resizing the screen|  User will see the button of navigation disappear and appear toggle menu resizing the screen ![Navbar_Desktop](/docs/Navbar_full.png) ![Navbar_Desktop](/docs/Navbar_tablet.png)|
+|Navbar\Toggle Menu| Click on toggle menu and hover| User will see appear a dropdown menu and a changing on hover toggle menu, will also see disappear the dropdown menu on clicking again on the toggle button ![Navbar_Desktop](/docs/Navbar_tablet.png) ![toggle-on](/docs/toggle-menu-on.png)|
+
+
+
+
+
+
+
+   
+  ## Browser Compatibility
+  | Browser Tested | Intended appearance | intended Responsiveness |
+| -------------- | :-----------------: | ----------------------: |
+| Chrome         |        Good         |                    Good |
+| Mozilla        |        Good         |                    Good |
+| Edge           |        Good         |                    Good |
+  ## Responsiveness
+  ## Bugs
 
 * During all the Development stage I used [DevTools - Chrome for Developers](<https://developer.chrome.com/docs/devtools>), to allow see how the website was looking on the browser. Then I readapt margin, padding, class name ( considering using Bootstrap ) to what I fell it's most visual apeealing. 
 
@@ -329,6 +372,8 @@ Again the design will be responsive and align the boxes.
 * On XS device in the benefit section the two pictures were in colon line, I didn't like to much so I decide to use media queries to make one of the images disapper.
 
 * Another media queries has been used for the cover text id to make the container of different size on xs screen.
+  
+## Code Validation
 
 * Start to validate the index.html file on [The W3C Markup Validation Service](<https://validator.w3.org/>)  , and have multiple info, Error, or Warning to fix. 
   * INFO line 9 :  Trailing slash on void elements. FIXING removing / simbol.
