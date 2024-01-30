@@ -328,6 +328,10 @@ Again the design will be responsive and align the boxes.
 |Navbar\Contact| hover Contact button|  User see change of color Contact button|
 |Navbar\Toggle Menu| Visualise toggle menu button resizing the screen|  User will see the button of navigation disappear and appear toggle menu resizing the screen ![Navbar_Desktop](/docs/Navbar_full.png) ![Navbar_Desktop](/docs/Navbar_tablet.png)|
 |Navbar\Toggle Menu| Click on toggle menu and hover| User will see appear a dropdown menu and a changing on hover toggle menu, will also see disappear the dropdown menu on clicking again on the toggle button ![Navbar_Desktop](/docs/Navbar_tablet.png) ![toggle-on](/docs/toggle-menu-on.png)|
+|Hero img| Visualise hero image properly |User will see an appealing landing page that zoom out to give movement|
+|Hero img| Visualise responsive hero image property |User will see different of the hero on different device ![hero](/docs/hero-scr.png) ![hero-xs](/docs/hero-xs-scr.png)|
+|Cover text| cover text on different screen| user will see resizing the cover text on different device|
+|Meal section| different cards same size in line on desktop, in row of 2 on medium format in row of 1 on small screen| User will see a dispaly of card, rispecting shape, color and font characteristic, responsive on different device ![meals](/docs/meal-sec-scr.png) ![meal-md](/docs/meal-sec-scr-md.png)![meal-xs](/docs/meal-sec-scr-xs.png) |
 
 
 
