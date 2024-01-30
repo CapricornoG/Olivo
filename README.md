@@ -169,6 +169,9 @@ I will use bootstrap to arrange for tablet and mobile and put a screenshot of th
 &nbsp;
 
 # Features
+
+All the feature, take care of the User Goal and User Stories to realise what has asked.
+
 ## navigation-bar
 Navigation bar will be responsive for different screen size.
 
@@ -239,10 +242,9 @@ For this section I get inspired to the Contact page of resume-miniproject-bootst
 
   ![Contact_us-mobile](/docs/contact_us-mobile.png)
 
+  After submitting the user get send to [formdump.codeinstitute](<https://formdump.codeinstitute.net/>) page I used to check the form was working properly. 
 
-
-
-
+    ![Contact_us-mobile](/docs/form-codeinstitute.png)
 
 ## footer
 
@@ -270,6 +272,7 @@ Again the design will be responsive and align the boxes.
 * Possibility to add a recipe as a user.
 * Where to buy.
 * I would like to add a container with description text inside for the varieties section, the container would appear after hovering or clicking on the images in the varieties section.
+* Remove the Codeinstitute formdump and have a feedback of the message been send.
 
 \
 &nbsp;
