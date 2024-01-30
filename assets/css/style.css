@@ -138,12 +138,12 @@ body {
 #cover-text {
     letter-spacing: 2px;
     width: auto;
-    height: 25rem;
+    height: 20rem;
     padding-top:1rem ;
     padding-bottom: 4rem;
     padding-left: 1rem;
     background-color:rgba(3, 3, 3, 0.5);
-    bottom: 2rem;
+    bottom: 3rem;
     left: 4rem;
     right: 5rem;
     position: absolute;
@@ -219,7 +219,6 @@ body {
 
 
 /*benefit section*/
-
 
 .b-heading-section {
     padding-bottom: 3rem;
