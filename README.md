@@ -309,7 +309,7 @@ Start to validate the index.html file on [The W3C Markup Validation Service](<ht
 * INFO line 286, 287 : Trailing slash on void elements. FIXING remove / symbol at the end of the tag from line 286, 287.
 * ERRORS line 301 End tag section seen, but there were open elements; line 276 : Unclosed element div. FIXING add closing div /div to line 304 in index.html.
   
-After fixing this errors I got the following message "Document checking completed. No errors or warnings to show." from W3C
+After fixing these errors I got the following message "Document checking completed. No errors or warnings to show." from W3C .
 
 ![Validator-HTML](/docs/screenshot-validator-html.png)
 
@@ -317,6 +317,13 @@ After fixing this errors I got the following message "Document checking complete
 Now validate the style.css on [The W3C CSS Validation Service - Jigsaw](<https://jigsaw.w3.org/css-validator/>)
 
 * ERROR line 317 .varieties-heading	Value Error : margin-bottom only 0 can be a unit. You must put a unit after your number : 1.5. FIXING add rem to 1.5 value.
+
+After fixing the error I got the following message "Congratulations! No Error Found." from W3C . There are some warnings needed to be fixed related to the browser transiction.
+  
+![Validator-CSS](/docs/screenshot-css-validator.png)
+
+
+
 
 
 
