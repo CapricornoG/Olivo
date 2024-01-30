@@ -112,7 +112,7 @@ I use [Font Awesome](<https://fontawesome.com/>) for social media links icons or
 
 ## Colours
 
-I use [Coolors](<https://coolors.co/>) for the selection of the color scheme, and a classic orange for some over.
+I use [Coolors](<https://coolors.co/>) for the selection of the colour scheme, and a classic orange for some over.
 
 *  --light-green: #606C38; 
 *   --dark-green: #283618;
@@ -386,6 +386,23 @@ Then select 'Pages' on the side navigation.
 &nbsp;
 
 # Credits
+
+For the lessons, the support and ispiration of the website I have to thanks,
+
+* [Code Institute](<https://codeinstitute.net/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+UK+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=1578649861&hsa_grp=62188641240&hsa_ad=635720257674&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiA2eKtBhDcARIsAEGTG41JrbhjWx9ubvxp5AhBL9ygCNkZjvc-HuC8gEckzkhyMbkLS9SXCloaAh4QEALw_wcB>)
+
+For correction, help and advice,
+
+* [Simen Daehlin](https://github.com/Eventyret "Simen Daehlin") my mentor for the project.
+
+A lot of ideas came trought resume-miniproject-bootstrap4 of [Code Institute](<https://github.com/Code-Institute-Solutions>)
+
+For the colours [Coolors](<https://coolors.co/>)
+
+For the images [Pexel]([<https://coolors.co/>](https://www.pexels.com/))
+
+
+
 
 \
 &nbsp;
