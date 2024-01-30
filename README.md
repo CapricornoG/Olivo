@@ -298,6 +298,8 @@ Again the design will be responsive and align the boxes.
 
 # Testing
 
+I noticed that under 768px the cards didn't look so great and too big. FIXING I add col-sm-6 to each div line 86, 96, 106, 117. Then I add a class resize to the div row on line 85 on my index.html, and applied a media queries adding margin left and right and removing padding left and right from container-fluid-meals class under 576 px. the resuld is that the cards take full weight screen only up to 576px, with padding left and right to center them all.
+
 Start to validate the index.html file on [The W3C Markup Validation Service](<https://validator.w3.org/>)  , and have multiple info, Error, or Warning to fix. 
  * INFO line 9 :  Trailing slash on void elements. FIXING removing / simbol.
  * ERROR line 99 : Bad value assets/img/full _aperitivo.jpg for attribute src on element img. FIXING change the name of the img in full-aperitivo.
