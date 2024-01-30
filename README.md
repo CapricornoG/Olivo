@@ -369,6 +369,14 @@ The hero image under 992px as a margin on the right, the page scroll on the righ
 
 Following writing the code then commiting and pushing to GitHub, this project was deployed using GitHub by the following steps.
 
+* Navigate to the repository on github and click 'Settings'.
+Then select 'Pages' on the side navigation.
+* Select the 'None' dropdown, and then click 'master'.
+* Click on the 'Save' button.
+* Now the website is now live on https://capricornog.github.io/Olivo/
+* If any changes are required, they can be done, commited and pushed to GitHub and the changes will be updated.
+
+
 
 
 \
