@@ -198,6 +198,20 @@ body {
     padding-right: 3rem;
 }
 
+
+@media(max-width:576px) {
+    .resize{
+        margin: 0 5rem ;
+    }
+
+    .container-fluid-meals{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+}
+
+
 .card-img-top{
     padding: 0.5rem;
     width: 100%;
