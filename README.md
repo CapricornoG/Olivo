@@ -297,7 +297,8 @@ Again the design will be responsive and align the boxes.
 &nbsp;
 
 # Testing
-Start to validate the code on HTML, and have multiple info, Error, or Warning to fix. 
+
+Start to validate the index.html file on [The W3C Markup Validation Service](<https://validator.w3.org/>)  , and have multiple info, Error, or Warning to fix. 
  * INFO line 9 :  Trailing slash on void elements. FIXING removing / simbol.
  * ERROR line 99 : Bad value assets/img/full _aperitivo.jpg for attribute src on element img. FIXING change the name of the img in full-aperitivo.
  * WARNING line 146 : Possible misuse of aria-label. FIXING removing aria-label.
@@ -311,6 +312,13 @@ Start to validate the code on HTML, and have multiple info, Error, or Warning to
 After fixing this errors I got the following message "Document checking completed. No errors or warnings to show." from W3C
 
 ![Validator-HTML](/docs/screenshot-validator-html.png)
+
+
+Now validate the style.css on [The W3C CSS Validation Service - Jigsaw](<https://jigsaw.w3.org/css-validator/>)
+
+* ERROR line 317 .varieties-heading	Value Error : margin-bottom only 0 can be a unit. You must put a unit after your number : 1.5. FIXING add rem to 1.5 value.
+
+
 
 ## Unfixed bugs
 
