@@ -324,12 +324,11 @@ body {
 .central-image{   
     padding-top: 3rem;
     padding-bottom: 3rem;
-    background-color: var(--burbon);
     margin: 0 auto;
 }
 
 
-#circle-container{
+.circle-container{
     width: 10rem;
     height: 10rem;
     margin: 0 auto ;
