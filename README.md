@@ -270,6 +270,7 @@ Again the design will be responsive and align the boxes.
 * Create a meals or Recipes pages with a library of recipes.
 * Possibility to add a recipe as a user.
 * Where to buy.
+* I would like to add a container with description text inside for the varieties section, the container would appear after hovering or clicking on the images in the varieties section.
 
 \
 &nbsp;
@@ -327,9 +328,6 @@ Again the design will be responsive and align the boxes.
 
 * Another media queries has been used for the cover text id to make the container of different size on xs screen.
 
-
-
-
 * Start to validate the index.html file on [The W3C Markup Validation Service](<https://validator.w3.org/>)  , and have multiple info, Error, or Warning to fix. 
   * INFO line 9 :  Trailing slash on void elements. FIXING removing / simbol.
   * ERROR line 99 : Bad value assets/img/full _aperitivo.jpg for attribute src on element img. FIXING change the name of the img in full-aperitivo.
@@ -355,11 +353,9 @@ Again the design will be responsive and align the boxes.
     ![Validator-CSS](/docs/screenshot-css-validator.png)
 
 
-
-
-
-
 ## Unfixed bugs
+
+The hero image under 992px as a margin on the right, the page scroll on the right and there is this margin of a few pixel that considering the deadline of the project I can't fix at the moment.
 
 \
 &nbsp;
