@@ -301,7 +301,10 @@ Start to validate the code on HTML, and have multiple info, Error, or Warning to
  * INFO line 9 :  Trailing slash on void elements. FIXING removing / simbol.
  * ERROR line 99 : Bad value assets/img/full _aperitivo.jpg for attribute src on element img. FIXING change the name of the img in full-aperitivo.
  * WARNING line 146 : Possible misuse of aria-label. FIXING removing aria-label.
- * * WARNING line 170 : Possible misuse of aria-label. FIXING removing aria-label.
+ * WARNING line 170 : Possible misuse of aria-label. FIXING removing aria-label.
+ * ERROR line line 204, 215, 226, 237, 248, 259 : Duplicate ID central-image. FIXING changing all the ID central-image with class:central-image.
+* ERROR line line 205, 216, 227, 238, 249, 260 : Duplicate ID circle-container. FIXING changing all the ID circle-container with class:circle-container.
+
 ## Unfixed bugs
 
 \
