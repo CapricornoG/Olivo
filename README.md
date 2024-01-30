@@ -304,6 +304,7 @@ Start to validate the code on HTML, and have multiple info, Error, or Warning to
  * WARNING line 170 : Possible misuse of aria-label. FIXING removing aria-label.
  * ERROR line line 204, 215, 226, 237, 248, 259 : Duplicate ID central-image. FIXING changing all the ID central-image with class:central-image.
 * ERROR line line 205, 216, 227, 238, 249, 260 : Duplicate ID circle-container. FIXING changing all the ID circle-container with class:circle-container.
+* ERRORS line 269 : End tag section seen, but there were open elements. line 196, 197 : Unclosed element div. FIXING I checked the varieties section related to the errors and fixed the position of the element.
 
 ## Unfixed bugs
 
